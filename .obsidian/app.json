@@ -1,5 +1,6 @@
 {
   "spellcheck": false,
   "fileSortOrder": "byCreatedTimeReverse",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": true
 }
