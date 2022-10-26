@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "635449f7486c7f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "3587cd0e233f6f0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9ba637308d999a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. linux/OS principles/零拷贝Zero-Copy技术.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a361753aeded4b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ea66777e5eb417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb23c94d844035e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "759b05f0ee0d20af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#EAL",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b6cc31294c61830",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11547855ba80fa63",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b1047a7856120f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06556976906826e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. linux/OS principles/零拷贝Zero-Copy技术.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acf6b0768447023c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. linux/OS principles/零拷贝Zero-Copy技术.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc76e16395f3de71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8060e7a7646f6fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. linux/OS principles/零拷贝Zero-Copy技术.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6b9ba637308d999a",
+  "lastOpenFiles": [
+    "1. linux/system call/进程间通信.md",
+    "1. linux/OS principles/系统基础和常用命令.md",
+    "1. linux/kernel/4. 内核初始化.md",
+    "1. linux/OS principles/零拷贝Zero-Copy技术.md",
+    "1. linux/kernel/3. 内核运行.md",
+    "1. linux/kernel/2. 启动.md",
+    "1. linux/OS principles/守护进程.md",
+    "1. linux/kernel/1. 整体架构.md",
+    "1. linux/zlink/kernel01.jpg",
+    "v2-52cdc054e6571065367b8af733bccbff_r.jpg.md"
+  ]
+}
