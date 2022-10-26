@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e09f255f77e48f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. linux/OS principles/零拷贝Zero-Copy技术.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,17 +153,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6b9ba637308d999a",
+  "active": "e09f255f77e48f94",
   "lastOpenFiles": [
+    "1. linux/OS principles/零拷贝.md",
+    "1. linux/OS principles/零拷贝Zero-Copy技术.md",
     "1. linux/system call/进程间通信.md",
     "1. linux/OS principles/系统基础和常用命令.md",
     "1. linux/kernel/4. 内核初始化.md",
-    "1. linux/OS principles/零拷贝Zero-Copy技术.md",
     "1. linux/kernel/3. 内核运行.md",
     "1. linux/kernel/2. 启动.md",
     "1. linux/OS principles/守护进程.md",
     "1. linux/kernel/1. 整体架构.md",
-    "1. linux/zlink/kernel01.jpg",
-    "v2-52cdc054e6571065367b8af733bccbff_r.jpg.md"
+    "1. linux/zlink/kernel01.jpg"
   ]
 }
