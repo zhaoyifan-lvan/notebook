@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbbba63ab31b36b7",
+        "id": "2cd2f5f2ded82a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "ff67e29ea89ca4f1",
+            "id": "61fec3ccbd257731",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,8 +129,9 @@
     "width": 229.5,
     "collapsed": true
   },
-  "active": "ff67e29ea89ca4f1",
+  "active": "61fec3ccbd257731",
   "lastOpenFiles": [
+    "1. linux/kernel/1. 整体架构.md",
     "1. linux/OS principles/零拷贝Zero-Copy技术.md",
     "未命名.md",
     "1. linux/OS principles/零拷贝.md",
@@ -139,7 +140,6 @@
     "1. linux/kernel/4. 内核初始化.md",
     "1. linux/kernel/3. 内核运行.md",
     "1. linux/kernel/2. 启动.md",
-    "1. linux/OS principles/守护进程.md",
-    "1. linux/kernel/1. 整体架构.md"
+    "1. linux/OS principles/守护进程.md"
   ]
 }
